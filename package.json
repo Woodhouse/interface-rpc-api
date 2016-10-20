@@ -1,0 +1,19 @@
+{
+  "name": "woodhouse-interface-rpc-api",
+  "version": "1.0.0",
+  "description": "RPC API for Woodhouse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Woodhouse/woodhouse-interface-rpc-api.git"
+  },
+  "author": "Luke Bonaccorsi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Woodhouse/woodhouse-interface-rpc-api/issues"
+  },
+  "homepage": "https://github.com/Woodhouse/woodhouse-interface-rpc-api#readme"
+}
